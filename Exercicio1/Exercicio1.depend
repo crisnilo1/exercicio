@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488902395 source:c:\users\e100354\desktop\c2\exercicio\exercicio1\crianodo.c
+	"lista.h"
+
+1489167381 c:\users\e100354\desktop\c2\exercicio\exercicio1\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1489166914 source:c:\users\e100354\desktop\c2\exercicio\exercicio1\main.c
+	"lista.h"
+
